@@ -5,3 +5,84 @@ This file has been automatically generated using the following command:
 
     $ git log --oneline --decorate
 
+ebbb681 (HEAD -> master, origin/master, origin/Sonoma-changes, origin/HEAD, Sonoma-changes) updated Changes.md
+6cfc583 v2.1.1 - see Changes.md
+965408e nits
+9633aa5 Added changes.md
+f0d96e0 nits
+e59195f macOS Sonoma fixes
+3ae08f9 Add .idea/ to the list of ignored files
+3a13dd3 Fix typo in README.md
+c91afce Create CODE_OF_CONDUCT.md
+9c9d2ee Update copyright statement in README.md
+4d06ac1 Update NEWS
+d62d1a8 iAdd target to biuld man page
+f09ca24 Add man page to configuration files and prepare required substitution variables during the configuration
+3f431bf Add man page
+7051c12 Fix spelling of Zsh
+fec6e18 Update README.md
+ef55e28 Fix typo
+d9b8100 Update README and add interactive interface snapshots
+40f92a8 Add screenshot
+ef718a9 Update NEWS
+5203816 Update README.md
+4a96483 2.0.0
+eb39a90 Clear backups cache after deleting a backup
+2c33c6a Remove list backups operation
+28ae7de Add tm_show_last_error and refactor
+7d01062 Merge branch 'master' into interactive_mode
+09737c6 Add configure check for BSD date
+3ce3fb7 Add zshexit() hook to close the file descriptor 3
+cec32cf Show dialog in a function to unset and reset errexit
+eb18065 Fix missing escape character
+a217c45 Move code to validate backup dates in a dedicated function
+8ae5791 Use alternate option names
+16c87a2 Fix main dialog title and caption
+e39570c Check at least one backup is left
+3fef8fa Merge branch 'master' into interactive_mode
+5fb4cbd Generate script from Autoconf config file
+2f385da Fix copyright
+b369bb2 Move script into src
+0675743 Bump 1.3.0-develop
+3c26159 Add configure check for dialog and warn user if not present
+cd4310d Keep ACLOCAL_AMFLAGS and AC_CONFIG_MACRO_DIR in sync
+2e17168 Add script to distribution
+d67adf7 Add NEWS and ChangeLog
+f1f6fc7 Add Autotools bootstrap script
+dcb7aa8 Add Autotools configuration
+2946cc1 Add functions to select and delete backups in a dialog
+1b57821 Set a trap to clean up resources
+71dde29 Add dialog names
+0253d20 Add basic structure for dialog navigation
+269d19f Quote printed string to improve readability in Emacs
+c7c39f5 Move health checks in a separate function
+8f629e3 Use read-only variables when possible
+0848db6 Use integer variables when possible
+c92ed8a Merge branch 'release/1.2.0'
+4825834 Bump 1.2.0
+61b8b37 Check that only one execution mode can be specified
+9af19c9 Update README.md
+d307855 Update README.md
+16a4920 Check execution mode
+a536c11 Merge branch 'release/1.1.0'
+dff99a6 Add -n option to support cleanup by number of backups
+c48d60c Do not require root privileges if -h is used.
+dfb9ac0 Update README.md.
+b2463b0 Fix usage message.
+75b1dd3 Fix typo.
+c1a9cfa Update README.md.
+c9d6ce0 Update usage information with recently added options.
+f89e3ae Add -x option to perform a dry run and -f option to force a backup deletion even though a Time Machine backup is currently being performed.
+822004b Fix typo.
+e617539 Update date.
+e4990dc Fix typo.
+0acbe8e Update README.md.
+688b65b Update installation instructions and license.
+1f7ad05 Update license.
+365fc2f Add installer and uninstaller.
+f095974 Add installation instructions.
+f2001f5 Update title.
+728ca01 Add initial script version.
+81b0a88 Add AUTHORS.
+9d36d07 Update README.md.
+ca7aa59 Initial commit
